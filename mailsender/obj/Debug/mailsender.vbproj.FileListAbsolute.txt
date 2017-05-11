@@ -1,0 +1,21 @@
+c:\users\koushik\documents\visual studio 2012\Projects\mailsender\mailsender\bin\Debug\mailsender.exe.config
+c:\users\koushik\documents\visual studio 2012\Projects\mailsender\mailsender\bin\Debug\mailsender.exe
+c:\users\koushik\documents\visual studio 2012\Projects\mailsender\mailsender\bin\Debug\mailsender.pdb
+c:\users\koushik\documents\visual studio 2012\Projects\mailsender\mailsender\bin\Debug\mailsender.xml
+c:\users\koushik\documents\visual studio 2012\Projects\mailsender\mailsender\obj\Debug\mailsender.Form1.resources
+c:\users\koushik\documents\visual studio 2012\Projects\mailsender\mailsender\obj\Debug\mailsender.Resources.resources
+c:\users\koushik\documents\visual studio 2012\Projects\mailsender\mailsender\obj\Debug\mailsender.vbproj.GenerateResource.Cache
+c:\users\koushik\documents\visual studio 2012\Projects\mailsender\mailsender\obj\Debug\mailsender.exe
+c:\users\koushik\documents\visual studio 2012\Projects\mailsender\mailsender\obj\Debug\mailsender.xml
+c:\users\koushik\documents\visual studio 2012\Projects\mailsender\mailsender\obj\Debug\mailsender.pdb
+C:\Users\koush\Documents\MyApps\mailsender\mailsender\bin\Debug\mailsender.exe.config
+C:\Users\koush\Documents\MyApps\mailsender\mailsender\bin\Debug\mailsender.exe
+C:\Users\koush\Documents\MyApps\mailsender\mailsender\bin\Debug\mailsender.pdb
+C:\Users\koush\Documents\MyApps\mailsender\mailsender\bin\Debug\mailsender.xml
+C:\Users\koush\Documents\MyApps\mailsender\mailsender\obj\Debug\mailsender.vbprojResolveAssemblyReference.cache
+C:\Users\koush\Documents\MyApps\mailsender\mailsender\obj\Debug\mailsender.Form1.resources
+C:\Users\koush\Documents\MyApps\mailsender\mailsender\obj\Debug\mailsender.Resources.resources
+C:\Users\koush\Documents\MyApps\mailsender\mailsender\obj\Debug\mailsender.vbproj.GenerateResource.Cache
+C:\Users\koush\Documents\MyApps\mailsender\mailsender\obj\Debug\mailsender.exe
+C:\Users\koush\Documents\MyApps\mailsender\mailsender\obj\Debug\mailsender.xml
+C:\Users\koush\Documents\MyApps\mailsender\mailsender\obj\Debug\mailsender.pdb
